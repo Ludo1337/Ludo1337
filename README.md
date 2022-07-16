@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Ludo1337/Ludo1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://dcbadge.vercel.app/api/shield/995076524732592188?style=flat)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning Rust
+- 💬 Ask me about anything
+- 📫 How to reach me: Discord: ![Ludo#1337](https://discord.com/users/995076524732592188/) or Telegram: ![@LudoSupremacy](https://t.me/LudoSupremacy)
+- ⚡ Fun fact: Je suis français
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--
+
+Money 💰
+
+https://paypal.me/ludo1337
