@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://dcbadge.vercel.app/api/shield/995076524732592188?style=flat)
+![https://discord.com/users/995076524732592188/](https://dcbadge.vercel.app/api/shield/995076524732592188?style=flat)
 
 
 - 🔭 I’m currently working on nothing
